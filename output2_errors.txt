@@ -1,0 +1,20 @@
+Simple Calculator
+Operations: + - * /   (type 'q' at the operator prompt to quit)
+
+Operator (+, -, *, /) or q to quit: /
+First number: 5
+Second number: 0
+Error: Cannot divide by zero.
+
+Operator (+, -, *, /) or q to quit: %
+Unknown operator. Please use +, -, * or /.
+
+Operator (+, -, *, /) or q to quit: *
+First number: abc
+Invalid number, please try again.
+First number: 3
+Second number: 3
+3 * 3 = 9
+
+Operator (+, -, *, /) or q to quit: q
+Goodbye!

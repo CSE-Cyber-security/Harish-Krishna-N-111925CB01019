@@ -1,0 +1,25 @@
+Simple Calculator
+Operations: + - * /   (type 'q' at the operator prompt to quit)
+
+Operator (+, -, *, /) or q to quit: +
+First number: 12
+Second number: 8
+12 + 8 = 20
+
+Operator (+, -, *, /) or q to quit: -
+First number: 20
+Second number: 7.5
+20 - 7.5 = 12.5
+
+Operator (+, -, *, /) or q to quit: *
+First number: 6
+Second number: 4
+6 * 4 = 24
+
+Operator (+, -, *, /) or q to quit: /
+First number: 10
+Second number: 4
+10 / 4 = 2.5
+
+Operator (+, -, *, /) or q to quit: q
+Goodbye!
